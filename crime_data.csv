@@ -1,0 +1,30 @@
+city,location,crime_type,time,latitude,longitude,Risk_Level
+Hyderabad,Ameerpet,Harassment,Night,17.4375,78.4482,high
+Hyderabad,Kukatpally,Theft,Evening,17.4948,78.3996,low
+Hyderabad,Banjara Hills,Assault,Night,17.4126,78.4482,medium
+Hyderabad,Jubilee Hills,Harassment,Evening,17.4239,78.4738,low
+Hyderabad,Gachibowli,Theft,Night,17.4401,78.3489,medium
+Hyderabad,Madhapur,Harassment,Day,17.4483,78.3915,low
+Hyderabad,Secunderabad,Assault,Night,17.4399,78.4983,low
+Hyderabad,Begumpet,Theft,Evening,17.4448,78.4666,high
+Hyderabad,Dilsukhnagar,Harassment,Night,17.3688,78.5247,medium
+Hyderabad,Lingampally,Theft,Day,17.4890,78.3158,low
+Hyderabad,Ameerpet,Theft,Evening,17.4375,78.4482,low
+Hyderabad,Kukatpally,Harassment,Night,17.4948,78.3996,high
+Hyderabad,Charminar,Harassment,Evening,17.3616,78.4747,medium
+Hyderabad,Mehdipatnam,Theft,Night,17.3910,78.4390,low
+Hyderabad,LB Nagar,Assault,Night,17.3457,78.5522,low
+Hyderabad,Uppal,Harassment,Day,17.4058,78.5591,high
+Hyderabad,Tarnaka,Theft,Evening,17.4283,78.5386,medium
+Hyderabad,Malakpet,Harassment,Night,17.3731,78.5016,low
+Hyderabad,Abids,Harassment,Evening,17.3948,78.4768,high
+Andhra Pradesh,Vijayawada,Harassment,Night,16.5062,80.6480,low
+Andhra Pradesh,Guntur,Theft,Evening,16.3067,80.4365,low
+Andhra Pradesh,Visakhapatnam,Assault,Night,17.6868,83.2185,high
+Andhra Pradesh,Tirupati,Harassment,Day,13.6288,79.4192,medium
+Andhra Pradesh,Nellore,Theft,Night,14.4426,79.9865,low
+Andhra Pradesh,Kurnool,Harassment,Evening,15.8281,78.0373,low
+Andhra Pradesh,Rajahmundry,Theft,Day,17.0005,81.8040,high
+Andhra Pradesh,Anantapur,Assault,Night,14.6819,77.6006,low
+Andhra Pradesh,Ongole,Harassment,Evening,15.5057,80.0499,medium
+Andhra Pradesh,Eluru,Theft,Night,16.7107,81.0952,medium

@@ -1,0 +1,30 @@
+<html>
+<body class="analysis-page">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<h2>Crime Analysis by Location</h2>
+
+<table border="1">
+
+<tr>
+<th>Location</th>
+<th>Total Crime Count</th>
+<th>Crime Types</th>
+</tr>
+
+{% for row in crimes %}
+
+<tr>
+<td>{{row.location}}</td>
+<td>{{row.count}}</td>
+<td>{{row.types}}</td>
+</tr>
+
+{% endfor %}
+
+</table>
+
+<br>
+<a href="/">Back</a>
+
+</body>
+</html>
